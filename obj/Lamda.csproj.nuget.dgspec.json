@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\DemoLamda\\Lamda\\Lamda.csproj": {}
+    "D:\\DemoLamda\\Lamda.csproj": {}
   },
   "projects": {
-    "D:\\DemoLamda\\Lamda\\Lamda.csproj": {
+    "D:\\DemoLamda\\Lamda.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\DemoLamda\\Lamda\\Lamda.csproj",
+        "projectUniqueName": "D:\\DemoLamda\\Lamda.csproj",
         "projectName": "Lamda",
-        "projectPath": "D:\\DemoLamda\\Lamda\\Lamda.csproj",
+        "projectPath": "D:\\DemoLamda\\Lamda.csproj",
         "packagesPath": "C:\\Users\\LuanThanhThai\\.nuget\\packages\\",
-        "outputPath": "D:\\DemoLamda\\Lamda\\obj\\",
+        "outputPath": "D:\\DemoLamda\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\DevExpress 21.2\\Components\\Offline Packages"
@@ -70,7 +70,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.409\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
         }
       }
     }
