@@ -1,0 +1,13 @@
+D:\DemoLamda\Lamda\bin\Debug\netcoreapp3.1\Lamda.deps.json
+D:\DemoLamda\Lamda\bin\Debug\netcoreapp3.1\Lamda.runtimeconfig.json
+D:\DemoLamda\Lamda\bin\Debug\netcoreapp3.1\Lamda.runtimeconfig.dev.json
+D:\DemoLamda\Lamda\bin\Debug\netcoreapp3.1\Lamda.dll
+D:\DemoLamda\Lamda\bin\Debug\netcoreapp3.1\Lamda.pdb
+D:\DemoLamda\Lamda\obj\Debug\netcoreapp3.1\Lamda.csproj.AssemblyReference.cache
+D:\DemoLamda\Lamda\obj\Debug\netcoreapp3.1\Lamda.GeneratedMSBuildEditorConfig.editorconfig
+D:\DemoLamda\Lamda\obj\Debug\netcoreapp3.1\Lamda.AssemblyInfoInputs.cache
+D:\DemoLamda\Lamda\obj\Debug\netcoreapp3.1\Lamda.AssemblyInfo.cs
+D:\DemoLamda\Lamda\obj\Debug\netcoreapp3.1\Lamda.csproj.CoreCompileInputs.cache
+D:\DemoLamda\Lamda\obj\Debug\netcoreapp3.1\Lamda.dll
+D:\DemoLamda\Lamda\obj\Debug\netcoreapp3.1\Lamda.pdb
+D:\DemoLamda\Lamda\obj\Debug\netcoreapp3.1\Lamda.genruntimeconfig.cache
