@@ -1,11 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "GDVlL/LhoKDhXxIZjSfETXkpTb02Im4gnYcIfeSyvcevndVPkTlLP5ZKmhUxtEuQrbm7I+9CNWQq0+1RH95OiA==",
+  "dgSpecHash": "kTXRkVloCSQ1+uSh/dWGfTiaNLsm8ie0t41IanIW7QUy4K0Ts+wpOlaZDMKpRveeYx2PNsNimrAfw/OIOOPQhg==",
   "success": true,
-  "projectFilePath": "D:\\DemoLamda\\Lamda.csproj",
+  "projectFilePath": "/home/runner/work/DemoLamda/DemoLamda/Lamda.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\LuanThanhThai\\.nuget\\packages\\amazon.lambda.core\\1.1.0\\amazon.lambda.core.1.1.0.nupkg.sha512",
-    "C:\\Users\\LuanThanhThai\\.nuget\\packages\\amazon.lambda.serialization.systemtextjson\\2.0.0\\amazon.lambda.serialization.systemtextjson.2.0.0.nupkg.sha512"
+    "/home/runner/.nuget/packages/amazon.lambda.core/1.1.0/amazon.lambda.core.1.1.0.nupkg.sha512",
+    "/home/runner/.nuget/packages/amazon.lambda.serialization.systemtextjson/2.0.0/amazon.lambda.serialization.systemtextjson.2.0.0.nupkg.sha512",
+    "/home/runner/.nuget/packages/microsoft.netcore.app.runtime.linux-x64/3.1.26/microsoft.netcore.app.runtime.linux-x64.3.1.26.nupkg.sha512",
+    "/home/runner/.nuget/packages/microsoft.aspnetcore.app.runtime.linux-x64/3.1.26/microsoft.aspnetcore.app.runtime.linux-x64.3.1.26.nupkg.sha512"
   ],
   "logs": []
 }
