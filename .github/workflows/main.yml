@@ -90,4 +90,4 @@ jobs:
       
       - name: Push Function zip package to S3
         run: |
-          aws s3 cp bin/Release/netcoreapp3.1/${{ env.REPO_NAME }}-${{ steps.tag_version.outputs.new_version }}.zip s3://routing2-lambda-packages
+          aws s3 cp bin/Release/netcoreapp3.1/${{ env.REPO_NAME }}-${{ steps.tag_version.outputs.new_version }}.zip s3://deploy-lambda-packages
