@@ -63,10 +63,7 @@ functions:
     timeout: 30
     memorySize: 3072
     environment:
-      DB_HOST: ${env:DB_HOST}
       DB_NAME: routing
-      DB_USER: ${env:DB_USER}
-      DB_PASSWORD: ${env:DB_PASSWORD}
       DB_PORT: '5432'
       S3_BUCKET_NAME: 'routing3-cache-files'
     # environment:
