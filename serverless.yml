@@ -58,8 +58,8 @@ package:
   individually: true
 
 functions:
-  LambdaDeploy:
-    handler: LambdaDeploy::LambdaDeploy.Function::FunctionHandler
+  DemoLamda:
+    handler: DemoLamda::DemoLamda.Function::FunctionHandler
     timeout: 30
     memorySize: 3072
     environment:
